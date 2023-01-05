@@ -1,2 +1,2 @@
 # Portfolio
-A repo to showcase some interesting projects
+A repo to showcase interesting projects
