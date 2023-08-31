@@ -1,13 +1,13 @@
 This competition's task was to predict whether a patient had a kidney stone or not based on urine analysis.
 
 # CSV Files
-train.csv - This is the competition provided training dataset.
+train.csv - This is the competition provided training dataset.  Can be found here https://www.kaggle.com/competitions/playground-series-s3e12/data.
+
+test.csv - This is the competition provided test dataset that participants must make predictions/inferences for.  Can be found here https://www.kaggle.com/competitions/playground-series-s3e12/data.
+
+sample_submission.csv - This is the competition provided sample submission file that outlines the format predictions must be in when submitted.  Can be found here https://www.kaggle.com/competitions/playground-series-s3e12/data.
 
 kidney stone urine analysis.csv - Additional training data provided by Vuppala Adithya Sairam https://www.kaggle.com/datasets/vuppalaadithyasairam/kidney-stone-prediction-based-on-urine-analysis.
-
-test.csv - This is the competition provided test dataset that participants must make predictions/inferences for.
-
-sample_submission.csv - This is the competition provided sample submission file that outlines the format predictions must be in when submitted.
 
 predictions.csv - The output file from notebook Competition_Submission.ipynb that contains predictions for each patient listed in the file test.csv.
 
