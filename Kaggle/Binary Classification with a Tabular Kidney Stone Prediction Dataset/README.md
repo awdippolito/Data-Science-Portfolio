@@ -14,6 +14,6 @@ predictions.csv - The output file from notebook Competition_Submission.ipynb tha
 
 # Python Notebooks
 
-Kidney_Stone_EDA.ipynb - Exploratory Data Analysis of the test.csv file provided for the competition.  It was found that utilizing just 2 variables (conductivity of urine and calcium concentration) is effective at predicting kidney stone presence in patients.
+Kidney_Stone_EDA.ipynb - Exploratory Data Analysis of the train.csv file provided for the competition.  It was found that utilizing just 2 variables (conductivity of urine and calcium concentration) is effective at predicting kidney stone presence in patients.
 
 Competition_Submission.ipynb - Notebook containing XGBoost model training and prediction of kidney stone presence in patients from test.csv.  Outputs predictions.csv.
