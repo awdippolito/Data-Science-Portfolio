@@ -1,4 +1,4 @@
-This competition's task was to predict whether a patient had a kidney stone or not based on urine analysis.
+This competition's task was to predict whether a patient had a kidney stone or not based on urine analysis.  I finished 188th out of 1088 competitors during this competition.
 
 # CSV Files
 train.csv - This is the competition provided training dataset.  Can be found here https://www.kaggle.com/competitions/playground-series-s3e12/data.
